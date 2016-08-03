@@ -1,0 +1,14 @@
+layout_spectrum: 0.2028605982195586
+typography_spectrum: 0.6277509650681168
+color:
+  brandStrength: 0.3266846095211804
+  lightness: 0.13044062559492886
+  saturation: 0.7811602859292179
+  rhythmicContrast: 0.3226780544500798
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: '#dadlife'
