@@ -1,4 +1,3 @@
-layout_spectrum: 0.2028605982195586
 typography_spectrum: 0.6277509650681168
 color:
   brandStrength: 0.3266846095211804
@@ -11,5 +10,7 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
+layout_spectrum: 0.2028605982195586
 name: '#dadlife'
 title: Dear Vincent
+description: The things nobody tells you
